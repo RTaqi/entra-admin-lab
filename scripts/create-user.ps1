@@ -5,7 +5,7 @@ foreach ($u in $users) {
         Password = "LabPass#2026x"
         ForceChangePasswordNextSignIn = $true
     }
-    New-MgUser -DisplayName u.DisplayName `
+    New-MgUser -DisplayName $u.DisplayName `
             -UserPrincipalName $u.UPN `
             -MailNickname $u.Nick `
             -AccountEnabled `

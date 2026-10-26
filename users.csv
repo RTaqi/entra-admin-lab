@@ -1,31 +1,31 @@
 DisplayName,UPN,Nick,Department,JobTitle
-Ali Khan,ali.khan@muhamadtaqi6gmail.onmicrosoft.com,ali.khan,Sales,Sales Rep
-Sara Ahmed,sara.ahmed@muhamadtaqi6gmail.onmicrosoft.com,sara.ahmed,Finance,Accountant
-Sara Ahmed,sara.ahmed2@muhamadtaqi6gmail.onmicrosoft.com,sara.ahmed2,,
-Usman Tariq,usman.tariq@muhamadtaqi6gmail.onmicrosoft.com,usman.tariq,IT,Sys Admin
-Usman Tariq,u.tariq@muhamadtaqi6gmail.onmicrosoft.com,u.tariq,it,System Administrator
-Ayesha Malik,ayesha.malik@muhamadtaqi6gmail.onmicrosoft.com,ayesha.malik,HR,HR Manager
-Bilal Hussain,bilal.hussain@muhamadtaqi6gmail.onmicrosoft.com,bilal.hussain,sales,sales representative
-Fatima Noor,fatima.noor@muhamadtaqi6gmail.onmicrosoft.com,fatima.noor,FINANCE,Finance Manager
-Hamza Sheikh,hamza.sheikh@muhamadtaqi6gmail.onmicrosoft.com,hamza.sheikh,Marketing,Marketing Executive
-Zainab Raza,zainab.raza@muhamadtaqi6gmail.onmicrosoft.com,zainab.raza,Marketing,Marketing Exec
-Omar Farooq,omar.farooq@muhamadtaqi6gmail.onmicrosoft.com,omar.farooq,Operations,Operations Lead
-Hira Siddiqui,hira.siddiqui@muhamadtaqi6gmail.onmicrosoft.com,hira.siddiqui,,Receptionist
-Danish Iqbal,danish.iqbal@muhamadtaqi6gmail.onmicrosoft.com,danish.iqbal,IT,Helpdesk
-Danish Iqbal,danish.iqbal.old@muhamadtaqi6gmail.onmicrosoft.com,danish.iqbal.old,IT,Helpdesk Technician
-Maryam Javed,maryam.javed@muhamadtaqi6gmail.onmicrosoft.com,maryam.javed,HR,HR Assistant
-Ahmed Raza,ahmed.raza@muhamadtaqi6gmail.onmicrosoft.com,ahmed.raza,Sales,Sales Executive
-Noman Ali,noman.ali@muhamadtaqi6gmail.onmicrosoft.com,noman.ali,Operations,Warehouse Supervisor
-Sana Khalid,sana.khalid@muhamadtaqi6gmail.onmicrosoft.com,sana.khalid,Finance,accountant
-Imran Baig,imran.baig@muhamadtaqi6gmail.onmicrosoft.com,imran.baig,Executive,CEO
-Nida Aslam,nida.aslam@muhamadtaqi6gmail.onmicrosoft.com,nida.aslam,Executive,Executive Assistant
-Test User,test.user@muhamadtaqi6gmail.onmicrosoft.com,test.user,,
-Test User 2,test.user2@muhamadtaqi6gmail.onmicrosoft.com,test.user2,,
-Temp Contractor,temp.contractor@muhamadtaqi6gmail.onmicrosoft.com,temp.contractor,,Contractor
-Old Admin,old.admin@muhamadtaqi6gmail.onmicrosoft.com,old.admin,IT,Admin
-Scanner Service,svc.scanner@muhamadtaqi6gmail.onmicrosoft.com,svc.scanner,IT,
-Backup Service,svc.backup@muhamadtaqi6gmail.onmicrosoft.com,svc.backup,IT,
-Kamran Yousuf,kamran.yousuf@muhamadtaqi6gmail.onmicrosoft.com,kamran.yousuf,Sales,Sales Manager
-Rabia Anwar,rabia.anwar@muhamadtaqi6gmail.onmicrosoft.com,rabia.anwar,Marketing,Marketing Manager
-Tariq Mehmood,tariq.mehmood@muhamadtaqi6gmail.onmicrosoft.com,tariq.mehmood,Operations,Driver
-Laiba Qureshi,laiba.qureshi@muhamadtaqi6gmail.onmicrosoft.com,laiba.qureshi,hr,Recruiter
+Ali Khan,ali.khan@your-tenant.onmicrosoft.com,ali.khan,Sales,Sales Rep
+Sara Ahmed,sara.ahmed@your-tenant.onmicrosoft.com,sara.ahmed,Finance,Accountant
+Sara Ahmed,sara.ahmed2@your-tenant.onmicrosoft.com,sara.ahmed2,,
+Usman Tariq,usman.tariq@your-tenant.onmicrosoft.com,usman.tariq,IT,Sys Admin
+Usman Tariq,u.tariq@your-tenant.onmicrosoft.com,u.tariq,it,System Administrator
+Ayesha Malik,ayesha.malik@your-tenant.onmicrosoft.com,ayesha.malik,HR,HR Manager
+Bilal Hussain,bilal.hussain@your-tenant.onmicrosoft.com,bilal.hussain,sales,sales representative
+Fatima Noor,fatima.noor@your-tenant.onmicrosoft.com,fatima.noor,FINANCE,Finance Manager
+Hamza Sheikh,hamza.sheikh@your-tenant.onmicrosoft.com,hamza.sheikh,Marketing,Marketing Executive
+Zainab Raza,zainab.raza@your-tenant.onmicrosoft.com,zainab.raza,Marketing,Marketing Exec
+Omar Farooq,omar.farooq@your-tenant.onmicrosoft.com,omar.farooq,Operations,Operations Lead
+Hira Siddiqui,hira.siddiqui@your-tenant.onmicrosoft.com,hira.siddiqui,,Receptionist
+Danish Iqbal,danish.iqbal@your-tenant.onmicrosoft.com,danish.iqbal,IT,Helpdesk
+Danish Iqbal,danish.iqbal.old@your-tenant.onmicrosoft.com,danish.iqbal.old,IT,Helpdesk Technician
+Maryam Javed,maryam.javed@your-tenant.onmicrosoft.com,maryam.javed,HR,HR Assistant
+Ahmed Raza,ahmed.raza@your-tenant.onmicrosoft.com,ahmed.raza,Sales,Sales Executive
+Noman Ali,noman.ali@your-tenant.onmicrosoft.com,noman.ali,Operations,Warehouse Supervisor
+Sana Khalid,sana.khalid@your-tenant.onmicrosoft.com,sana.khalid,Finance,accountant
+Imran Baig,imran.baig@your-tenant.onmicrosoft.com,imran.baig,Executive,CEO
+Nida Aslam,nida.aslam@your-tenant.onmicrosoft.com,nida.aslam,Executive,Executive Assistant
+Test User,test.user@your-tenant.onmicrosoft.com,test.user,,
+Test User 2,test.user2@your-tenant.onmicrosoft.com,test.user2,,
+Temp Contractor,temp.contractor@your-tenant.onmicrosoft.com,temp.contractor,,Contractor
+Old Admin,old.admin@your-tenant.onmicrosoft.com,old.admin,IT,Admin
+Scanner Service,svc.scanner@your-tenant.onmicrosoft.com,svc.scanner,IT,
+Backup Service,svc.backup@your-tenant.onmicrosoft.com,svc.backup,IT,
+Kamran Yousuf,kamran.yousuf@your-tenant.onmicrosoft.com,kamran.yousuf,Sales,Sales Manager
+Rabia Anwar,rabia.anwar@your-tenant.onmicrosoft.com,rabia.anwar,Marketing,Marketing Manager
+Tariq Mehmood,tariq.mehmood@your-tenant.onmicrosoft.com,tariq.mehmood,Operations,Driver
+Laiba Qureshi,laiba.qureshi@your-tenant.onmicrosoft.com,laiba.qureshi,hr,Recruiter

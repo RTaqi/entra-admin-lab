@@ -20,3 +20,11 @@ Problem
 
 Solution
 	-- Run Connect Command with your Tenant Id (Pass Tenant ID as a parameter in Connect Command)
+=========================================
+
+
+2. Cleaan up directory and Give it  Structure
+	-- Start with Audit : Check for same Display Name and Missing department or jobtitle - no issues found their.
+	-- Standardized the Department and Job Tile Like Sale Rep and Sales Representative = Sales Representative.
+
+3. Create Department Groups and Add Members in group to grant permission at once to all user belongs to same Department.
